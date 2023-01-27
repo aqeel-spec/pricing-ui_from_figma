@@ -1,0 +1,55 @@
+.container {
+  position: absolute;
+  width: 1440px;
+  height: 397px;
+  left: 0px;
+  top: 0px;
+
+  background: #6b46c1;
+}
+
+.heading {
+  position: absolute;
+  width: 751px;
+  height: 62.31px;
+  left: 344px;
+  top: 88.45px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 800;
+  font-size: 48px;
+  line-height: 130%;
+  /* identical to box height, or 62px */
+
+  text-align: center;
+  letter-spacing: -0.01em;
+
+  /* gray / 50 */
+
+  color: #f7fafc;
+}
+.subheading {
+  position: absolute;
+  width: 604px;
+  height: 32.16px;
+  left: 418px;
+  top: 166.84px;
+
+  /* 2xl */
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 32px;
+  /* or 133% */
+
+  text-align: center;
+
+  /* gray / 50 */
+
+  color: #f7fafc;
+
+  opacity: 0.84;
+}
